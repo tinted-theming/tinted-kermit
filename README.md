@@ -14,7 +14,7 @@ curl https://raw.githubusercontent.com/orhun/base16-k3rmit/master/themes/base16-
 
 ## License
 
-GNU General Public License ([v3](https://www.gnu.org/licenses/gpl.txt))
+[The MIT License](https://opensource.org/licenses/MIT)
 
 ## Copyright
 

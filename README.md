@@ -9,7 +9,7 @@ generate config files.
 Basically, update the k3rmit configuration file according to the theme config.
 
 ```
-curl https://raw.githubusercontent.com/orhun/base16-k3rmit/master/themes/base16-default.config > ~/.config/k3rmit.config
+curl https://raw.githubusercontent.com/orhun/base16-k3rmit/master/themes/base16-default.config > ~/.config/k3rmit.conf
 ```
 
 ## License

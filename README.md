@@ -12,7 +12,3 @@ curl https://raw.githubusercontent.com/orhun/base16-kermit/master/themes/base16-
 ## License
 
 [The MIT License](https://opensource.org/licenses/MIT)
-
-## Copyright
-
-Copyright (c) 2020, [orhun](https://www.github.com/orhun)

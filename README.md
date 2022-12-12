@@ -1,6 +1,6 @@
 # base16-kermit
 
-This repository provides themes for the VTE-based [kermit terminal](https://github.com/orhun/kermit) and a simple template that can be used with the [base16](https://github.com/chriskempson/base16) color schemes to
+This repository provides themes for the VTE-based [kermit terminal](https://github.com/orhun/kermit) and a simple template that can be used with the [tinted-theming](https://github.com/tinted-theming/home) color schemes to
 generate config files.
 
 ## Usage

@@ -1,5 +1,11 @@
 # tinted-kermit-terminal
 
+**Deprecated**: tinted-kermit and all the other Tinted Theming
+terminal template repositories have moved to a single [Tinted
+Terminal](https://github.com/tinted-theming/tinted-terminal) repository.
+
+---
+
 This repository provides themes for the VTE-based [kermit terminal] and
 a simple template that can be used with the [tinted-theming] color
 schemes to generate config files.
